@@ -1,15 +1,15 @@
 #### Clean code
+- [ ] Use Intention-revealing names
 - [ ] Pick one word per concept
 - [ ] Use solution/problem domain names
+- [ ] Classes should be small
+- [ ] Functions should be small
 - [ ] Do one thing
 - [ ] Don't repeat yourself
 - [ ] Explain yourself in code
+- [ ] Make sure the code formatting is applied
 - [ ] Use Exceptions rather than Return codes
 - [ ] Don't return Null
-- [ ] Use Intention-revealing names
-- [ ] Classes should be small
-- [ ] Functions should be small
-- [ ] Make sure the code formatting is applied
 
 #### General
 - [ ] Use checked exceptions for recoverable conditions and runtime exceptions for programming errors
