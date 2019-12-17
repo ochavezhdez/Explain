@@ -1,4 +1,4 @@
-Clean code
+#### Clean code
 - [ ] Pick one word per concept
 - [ ] Use solution/problem domain names
 - [ ] Do one thing
@@ -11,7 +11,7 @@ Clean code
 - [ ] Functions should be small
 - [ ] Make sure the code formatting is applied
 
-General
+#### General
 - [ ] Use checked exceptions for recoverable conditions and runtime exceptions for programming errors
 - [ ] Use of standard exceptions
 - [ ] Don't ignore exceptions
@@ -27,7 +27,7 @@ General
 - [ ] Synchronize access to shared mutable data
 - [ ] Prefer executors to tasks and threads
 
-Security
+#### Security
 - [ ] Application to run with the least privilege mode required for functioning
 - [ ] Minimize the accessibility of classes and members
 - [ ] Document security related information
@@ -48,7 +48,7 @@ Security
 - [ ] Guard sensitive data during serialization
 - [ ] Be careful caching results of potentially privileged operations
  
-Performance
+#### Performance
 - [ ] Avoid excessive synchronization
 - [ ] Keep Synchronized Sections Small
 - [ ] Beware the performance of string concatenation
